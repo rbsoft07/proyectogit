@@ -1,2 +1,2 @@
 Agregar en el staging area, nuevo cambio
-nueva linea para hacer push desde la consola. 
+nueva linea para hacer push.
